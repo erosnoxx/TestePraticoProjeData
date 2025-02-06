@@ -50,4 +50,4 @@ O projeto é dividido em classes de acordo com os requisitos fornecidos, com a s
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/teste-pratico-iniflex.git
+   git clone https://github.com/erosnoxx/TestePraticoProjeData.git
